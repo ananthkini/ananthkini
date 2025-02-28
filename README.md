@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ananthkini
-- 👀 I’m interested in ... JS
-- 🌱 I’m currently learning ... ReactJS
+- 👀 I’m interested in ... Fullstack
+- 🌱 I’m currently learning ... MERN
 - 📫 How to reach me ... Look for Ananth Kini
 
 <!---
